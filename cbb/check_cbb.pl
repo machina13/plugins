@@ -1,4 +1,8 @@
 #!/usr/bin/perl
+#Plugin HP MCS 200 Cooling Unit
+# http://www8.hp.com/uk/en/products/rack-cooling/product-detail.html?oid=6230883
+
+
 use strict;
 use Net::SNMP;
 use Data::Dumper;
